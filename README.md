@@ -8,4 +8,4 @@ This program creates a local directory where your passphrases are stored securel
 
 The only way to decrypt is by re-entering the password used to encrypt your .pem file.
 
-If you have knowledge of PKI in Cryptography, you could reverse the PEM chain but the average user would not know this and become confused.
+If you have knowledge of PKI in Cryptography, you could reverse the PEM chain but the average user would not know this.
